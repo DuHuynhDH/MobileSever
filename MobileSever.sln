@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileSever", "MobileSever\MobileSever.csproj", "{F5E7E598-C213-4F53-83C9-9C1ACDDE7DD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataServicesJSONP", "..\..\..\..\Downloads\Compressed\DataServicesJSONP\DataServicesJSONP\DataServicesJSONP.csproj", "{68B38D95-0CB4-4521-8E78-CEC72C4A1DE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E7E598-C213-4F53-83C9-9C1ACDDE7DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E7E598-C213-4F53-83C9-9C1ACDDE7DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E7E598-C213-4F53-83C9-9C1ACDDE7DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E7E598-C213-4F53-83C9-9C1ACDDE7DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68B38D95-0CB4-4521-8E78-CEC72C4A1DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B38D95-0CB4-4521-8E78-CEC72C4A1DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B38D95-0CB4-4521-8E78-CEC72C4A1DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B38D95-0CB4-4521-8E78-CEC72C4A1DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
